@@ -1,0 +1,6 @@
+Este es un archivo de ejemplo para probar el programa de búsqueda de coincidencias.
+Aquí podemos incluir diferentes palabras como ejemplo, por ejemplo, "ejemplo".
+También podemos tener palabras con mayúsculas y minúsculas mezcladas, EjEmPlO.
+El programa debería encontrar todas las ocurrencias de "ejemplo" y "programa" en este archivo.
+Debería contar y mostrar todas las coincidencias encontradas.
+Este archivo es solo para propósitos de prueba.
